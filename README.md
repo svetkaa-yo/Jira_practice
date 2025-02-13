@@ -1,8 +1,10 @@
-Jira Issues Portfolio
-This repository contains a collection of Jira Issues that I have gathered from various projects. These tasks represent diverse situations I have encountered during my work and showcase my experience in task management, planning, and tracking progress through the Jira system.
 
-About the Project
-In this repository, you will find several Jira Issues, each of which illustrates:
+<h3 class="heading-element" dir="auto">Jira Issues </h3>
+<p dir="auto"> This repository contains a collection of issues that I have made from projects during my Acodemy courses.</p>
+
+<h3 class="heading-element" dir="auto">About the Projects </h3>
+<p> <a href= "https://academybugs.com/">AcademyBugs.com </a> is an educational website designed to help individuals enhance their exploratory testing skills. It features a mock e-commerce site intentionally embedded with 25 real bugs. I was encouraged to identify  bugs, report them, and learn about various bug types and reporting processes. </p>
+
 
 The problem that needed to be solved.
 The status of the task and the stages of its execution.
