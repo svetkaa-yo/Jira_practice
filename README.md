@@ -1,6 +1,6 @@
 
-<h3 class="heading-element" dir="auto">Jira Issues </h3>
-<p dir="auto"> This repository contains a collection of issues that I have made from projects during my Acodemy courses.</p>
+<h3 class="heading-element" dir="auto">Jira Practice </h3>
+<p dir="auto"> This repository contains a collection of Jira tickets (Test sets, cases, executions, Bug Reports) that I have made during my studies.</p>
 
 <h3 class="heading-element" dir="auto">About the Projects </h3>
 
